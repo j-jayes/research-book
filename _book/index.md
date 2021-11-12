@@ -5,7 +5,7 @@ date: "2021-11-12"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://j-jayes-research-book.netlify.app/
 cover-image: "resources/index/cover.jpg"
 favicon: "resources/favicon.ico"
 description: |

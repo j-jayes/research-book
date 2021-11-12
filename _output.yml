@@ -4,7 +4,7 @@ bookdown::bs4_book:
     primary: "#096B72"
     base_font:
       google: "Lato"
-  repo: https://github.com/rstudio/bookdown-demo
+  repo: https://github.com/j-jayes/research-book
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex
