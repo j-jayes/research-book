@@ -1,10 +1,10 @@
 --- 
 title: "Research Book"
 author: "Jonathan Jayes"
-date: "2021-11-12"
+date: "2021-11-16"
 site: bookdown::bookdown_site
 documentclass: book
-bibliography: [book.bib, packages.bib]
+bibliography: [bibliography.bib]
 url: https://j-jayes-research-book.netlify.app/
 cover-image: "resources/index/cover.jpg"
 favicon: "resources/favicon.ico"
@@ -14,6 +14,6 @@ biblio-style: apalike
 csl: chicago-fullnote-bibliography.csl
 ---
 
-# Cover {-}
+# Provisional title: Like moths to a flame {-}
 
-![](resources/index/cover.jpg)
+![](resources/index/cover-3.jpg)

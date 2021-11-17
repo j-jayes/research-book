@@ -77,7 +77,7 @@ Progress: week 3, it's pretty tough as I haven't much experience in python.
 
 Mastering Shiny is a textbook by Hadley Wickham that teaches you how to build interactive applications, reports and websites. It is super fun, and can be useful to convey research to a general audience and be presented alongside a research paper. The book is presented in 3 sections.
 
-![](https://mastering-shiny.org/)<!-- -->
+<img src="https://mastering-shiny.org/" style="display: block; margin: auto;" />
 
 There is an interesting example of this style of interactive visualisation in companion to a research write up for a [recent paper](https://blueprintlabs.mit.edu/research/using-admissions-lotteries-to-validate-and-improve-school-quality-measures/) on measuring school quality in New York City:
 

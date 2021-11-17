@@ -1,3 +1,4 @@
+fig:unnamed-chunk-1
 fig:nice-fig
 tab:nice-tab
 eq:binom
@@ -11,6 +12,11 @@ fig:exports-imports-stack
 fig:food-prices
 research-plan
 purpose
+project
+persistence-and-path-dependence-in-sweden
+proposed-mechanisms-of-persistence
+what-remains
+groupings-of-questions
 cross
 chapters-and-sub-chapters
 captioned-figures-and-tables
