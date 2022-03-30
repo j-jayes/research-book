@@ -29,6 +29,13 @@ movin-out-the-labour-market-consequences-of-the-redevelopment-of-norrmalm-in-sto
 data-1
 analysis-1
 outcomes-1
+document-processing-pipeline
+overview
+data-descripton
+photographing
+data-management
+post-processing
+section
 courses
 compulsory-courses
 designing-a-phd-project-2021-2022
@@ -52,3 +59,12 @@ the-productivitytechnology-effect
 trade-effect
 price-effect
 conclusion
+forte
+presentation-on-riksvakanslistor
+linkedin-data-document
+dewarp-and-binarize.-explain-how-this-is-done.
+make-machine-readable-data
+ocr-for-metadata
+tabular-data-pipeline
+ocr-for-metadata-and-free-text
+photographing-timeline

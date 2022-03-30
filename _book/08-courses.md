@@ -36,18 +36,20 @@ The Mantals och skattskrifningslängd records:
 ```
 #> -- Attaching packages ------------------- tidyverse 1.3.1 --
 #> v ggplot2 3.3.5     v purrr   0.3.4
-#> v tibble  3.1.5     v dplyr   1.0.7
+#> v tibble  3.1.6     v dplyr   1.0.7
 #> v tidyr   1.1.4     v stringr 1.4.0
-#> v readr   2.0.2     v forcats 0.5.1
+#> v readr   2.1.1     v forcats 0.5.1
+#> Warning: package 'tibble' was built under R version 4.1.2
+#> Warning: package 'readr' was built under R version 4.1.2
 #> -- Conflicts ---------------------- tidyverse_conflicts() --
 #> x dplyr::filter() masks stats::filter()
 #> x dplyr::lag()    masks stats::lag()
 #> # A tibble: 3 x 2
-#>   headings                     eng_headings                 
-#>   <chr>                        <chr>                        
-#> 1 Qvarterets namn, fasigheten~ The name of the neighborhood~
-#> 2 Mantalsuppgiftens nummer     Mantal information number    
-#> 3 Antal personer, som böra er~ Number of people who should ~
+#>   headings                                      eng_headings
+#>   <chr>                                         <chr>       
+#> 1 Qvarterets namn, fasighetens beskaffenhet sa~ The name of~
+#> 2 Mantalsuppgiftens nummer                      Mantal info~
+#> 3 Antal personer, som böra erlägga mantals-pen~ Number of p~
 ```
 
 
