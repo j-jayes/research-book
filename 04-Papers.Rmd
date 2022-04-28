@@ -1,9 +1,16 @@
 # (PART) Process {-}
 
-# Where we're at
+# Presentation for Forte research group
 
-## What outcomes should I look at in the paper on electrification??
+## Preamble
 
-Brey (2021) finds that "locations which were able to adopt electricity early experienced an immediate shift in employment from agriculture into manufacturing. Further, areas that had adopted electricity continued to be more indsutrialized and have higher incomes over 100 years later."
+## Policy questions
 
+## Papers
+
+What are the policy questions we want to answer?
+
+1. Is having access to electricity sufficient for development?
+
+We know it is necessary 
 

@@ -1,19 +1,16 @@
 # (PART) Process {-}
 
-# Where we're at
+# Presentation for Forte research group
 
-## 1. Electrification as a shock to labour demand: worker skills and internal migration in Sweden
+## Preamble
 
-### Data
+## Policy questions
 
-### Analysis
+## Papers
 
-### Outcomes
+What are the policy questions we want to answer?
 
-## 2. Movin' Out: The labour market consequences of the redevelopment of Norrmalm in Stockholm.
+1. Is having access to electricity sufficient for development?
 
-### Data
+We know it is necessary 
 
-### Analysis
-
-### Outcomes
